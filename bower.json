@@ -1,0 +1,19 @@
+{
+  "name": "ice-nine",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bspaulding/ice-nine",
+  "authors": [
+    "Bradley J. Spaulding <brad.spaulding@gmail.com>"
+  ],
+  "license": "NO",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "aws-sdk-js": "~2.1.39"
+  }
+}
