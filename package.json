@@ -1,0 +1,11 @@
+{
+  "name": "ice-nine",
+  "version": "1.0.0",
+  "description": "Upload files to Amazon Glacier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bradley J. Spaulding",
+  "license": "NO"
+}
